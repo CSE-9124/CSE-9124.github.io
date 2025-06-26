@@ -17,7 +17,7 @@ image:
 
 <p>
     <a href="https://github.com/Rezka08/TaskMaster">🔗 Repository</a> • 
-    <a href="#instalasi-dan-setup">📱 Download APK</a>
+    <a href="#-getting-started">📱 Download APK</a>
 </p>
 
 </div>
